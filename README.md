@@ -8,4 +8,4 @@
 - Участие в код-ревью 
   ### Посмотреть проект:
 - Ссылка на деплой: https://devcodepet.tw1.ru/
-- Ссылка на репозиторий: https://github.com/Pet-projects-CodePET/Frontend
+- Ссылка на репозиторий: https://github.com/Pet-projects-CodePET/Frontend/tree/develop
