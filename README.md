@@ -1,6 +1,6 @@
 # CodePet
 ### Веб-приложения для поиска, организации и управления пет-проектами в области разработки программного обеспечения.
-#### Cтек: Typescript, Next.js, React, Redux toolkit, SCSS, Git, архитектура приложения - FSD, clsx, commitizen, husky
+#### Cтек: Typescript, Next.js, React, Redux toolkit, SCSS, Git, архитектура приложения - FSD, clsx, commitizen, husky, адаптивная верстка
 #### Работа в кросс-функциональной команде.
 - Взаимодействие с Project-Manager, Backend, QA, UI/UX.
 - Просмотр задач на Kanban доске в гите
